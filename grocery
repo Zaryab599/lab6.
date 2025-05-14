@@ -1,0 +1,12 @@
+  List<string> groceries = new List<string>
+        {"Apples",
+            "Bread",
+            "Milk",
+            "Eggs",
+            "Cheese",
+            "Chicken",
+            "Rice"};
+        foreach (string item in groceries)
+        {
+            Console.WriteLine("- " + item);}
+        
