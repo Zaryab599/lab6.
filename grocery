@@ -8,5 +8,5 @@
             "Rice"};
         foreach (string item in groceries)
         {
-            Console.WriteLine("- " + item);}
+            Console.WriteLine( item);}
         groceries.Add("oil");
