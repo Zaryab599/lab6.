@@ -9,4 +9,4 @@
         foreach (string item in groceries)
         {
             Console.WriteLine("- " + item);}
-        groceries.Add("oil");
+        groceries.Add("toothpaste");
